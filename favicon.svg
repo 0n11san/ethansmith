@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 12 144 144"><circle cx="100.0" cy="84.0" r="72.0" fill="#3aa3e3"/>
+      <!-- back legs -->
+      <ellipse cx="52" cy="160" rx="30" ry="24" fill="#ffd23f"/>
+      <ellipse cx="148" cy="160" rx="30" ry="24" fill="#ffd23f"/>
+      <!-- toes -->
+      <g fill="#ffd23f">
+        <circle cx="26" cy="176" r="8"/><circle cx="40" cy="182" r="8"/><circle cx="54" cy="183" r="8"/>
+        <circle cx="174" cy="176" r="8"/><circle cx="160" cy="182" r="8"/><circle cx="146" cy="183" r="8"/>
+      </g>
+      <!-- body -->
+      <ellipse cx="100" cy="128" rx="54" ry="56" fill="#ffd23f"/>
+      <ellipse cx="100" cy="140" rx="34" ry="40" fill="#ffe98a"/>
+      <!-- arms up! -->
+      <path d="M58 120 Q34 100 30 66" stroke="#ffd23f" stroke-width="20" stroke-linecap="round" fill="none"/>
+      <path d="M142 120 Q166 100 170 66" stroke="#ffd23f" stroke-width="20" stroke-linecap="round" fill="none"/>
+      <g fill="#ffd23f">
+        <circle cx="24" cy="58" r="9"/><circle cx="34" cy="52" r="9"/><circle cx="44" cy="58" r="9"/>
+        <circle cx="176" cy="58" r="9"/><circle cx="166" cy="52" r="9"/><circle cx="156" cy="58" r="9"/>
+      </g>
+      <!-- head -->
+      <ellipse cx="100" cy="82" rx="52" ry="38" fill="#ffd23f"/>
+      <!-- eyes -->
+      <circle cx="72" cy="48" r="22" fill="#ffd23f"/><circle cx="128" cy="48" r="22" fill="#ffd23f"/>
+      <circle cx="72" cy="46" r="17" fill="#fff"/><circle cx="128" cy="46" r="17" fill="#fff"/>
+      <circle cx="75" cy="48" r="8" fill="#5a2d0c"/><circle cx="125" cy="48" r="8" fill="#5a2d0c"/>
+      <circle cx="78" cy="45" r="3" fill="#fff"/><circle cx="128" cy="45" r="3" fill="#fff"/>
+      <!-- smile -->
+      <path d="M66 88 Q100 122 134 88" stroke="#a5570f" stroke-width="5" fill="#ff9a8a" stroke-linecap="round" stroke-linejoin="round"/>
+      <!-- cheeks -->
+      <circle cx="58" cy="90" r="7" fill="#ff9a5c" opacity=".6"/><circle cx="142" cy="90" r="7" fill="#ff9a5c" opacity=".6"/>
+      <!-- orange spots -->
+      <g fill="#f59e0b">
+        <circle cx="86" cy="72" r="4"/><circle cx="102" cy="68" r="3.5"/><circle cx="116" cy="74" r="4"/>
+        <circle cx="70" cy="118" r="5"/><circle cx="130" cy="122" r="5"/><circle cx="52" cy="158" r="5"/>
+        <circle cx="148" cy="160" r="5"/><circle cx="86" cy="106" r="3"/><circle cx="118" cy="104" r="3"/>
+      </g>
+      <!-- nostrils -->
+      <circle cx="94" cy="80" r="2" fill="#a5570f"/><circle cx="106" cy="80" r="2" fill="#a5570f"/>
+    </svg>

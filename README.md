@@ -8,6 +8,7 @@ A tiny, happy landing page for Ethan, age 3: his name in big letters, with a fro
 
 - One file, [`index.html`](index.html): plain HTML, CSS and a few lines of JavaScript.
 - All artwork is hand-drawn inline SVG in a flat vector style. There are no images and no build step.
+- The browser-tab icon is the frog: `favicon.svg`, plus `favicon-32.png`, `favicon.ico` and `apple-touch-icon.png` for Safari and home screens.
 - Hosted on GitHub Pages. The `CNAME` file points the site at `ethanlsmith.com`.
 
 ## Updating it
