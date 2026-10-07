@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 12 144 144"><circle cx="100.0" cy="84.0" r="72.0" fill="#3aa3e3"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="28 12 144 144"><rect x="28" y="12" width="144" height="144" fill="#3aa3e3"/>
       <!-- back legs -->
       <ellipse cx="52" cy="160" rx="30" ry="24" fill="#ffd23f"/>
       <ellipse cx="148" cy="160" rx="30" ry="24" fill="#ffd23f"/>
